@@ -1,0 +1,13 @@
+javaScript oldal - MDN JavaScript Guide
+
+	kód: 
+		console.log('hello') - kiírja, h hello
+		
+
+	visual studio code parancsok  (ha lila az alja és nem világos kék, akkor nincs megnyitva folder)
+			- ctrl + ö - TERMINÁL KÓD
+			- ctrl + shift + p - gondolom kereső      -> itt beírom, h task, ott az első és ott others
+			- ctrl + shift + b - BUILD
+			- ctrl + shift + u - mutatja/elrejti az outputot
+			- beírt pl.: fun és kis kockás változat kiválasztása után TAB, akk kiírja az egész függvényt és TAB-bal lehet léptetni és írni
+			
